@@ -1,0 +1,6 @@
+{
+  "name": "Tawasul Plus",
+  "description": "Tawasul Plus (تواصل بلس) — Real-time messaging app with Google Sign-In, Cloud Firestore chats, groups, status updates, and bilingual Arabic/English RTL support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
